@@ -33,3 +33,4 @@ AirGuard AI 旨在透過工具調度（Tool Orchestration）架構，結合氣�
 - **Agent 架構**: 依賴 LangChain / LangGraph 與 Pydantic v2 定義之工具協議。
 - **資料與模型**: 依賴台灣環境部（MOENV）Open API，引入 LightGBM、Scikit-Learn 作為預測引擎。
 - **外部界面**: 提供 RESTful 與 WebSocket 端點供前端即時對話與預測數據視覺化調用。
+

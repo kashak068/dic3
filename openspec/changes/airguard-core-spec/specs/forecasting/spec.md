@@ -19,3 +19,4 @@
 #### Scenario: Agent 即時工具調用
 - **WHEN** AI Agent 發起 short-term forecasting 工具調用
 - **THEN** 預測模組於 200ms 內完成特徵組裝與模型前向計算並回傳結構化 JSON
+

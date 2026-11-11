@@ -16,3 +16,4 @@ AI Agent MUST 透過嚴格的 Pydantic 結構化 Schema 調用外部工具，嚴
 #### Scenario: 缺少關鍵參數的主動澄清
 - **WHEN** 使用者未提供活動地點或活動時段
 - **THEN** Agent 識別缺失欄位並主動反問使用者以補齊必要上下文
+
